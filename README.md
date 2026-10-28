@@ -4,6 +4,8 @@ Protótipo de prontuário eletrônico para ILPI com foco em **admissão do idoso
 
 > **Somente dados fictícios.** Nesta fase os registros ficam no `localStorage` do navegador. Não use com dados reais de residentes.
 
+Demonstração publicada: https://pront-ilpi.vercel.app
+
 ## Rodar
 
 ```bash
